@@ -1,5 +1,5 @@
 
-*A repository for Docker, Amazon Web Service, and Travis CI for CI/CD demonstration*
+*A repository for a React app using Docker, Amazon Web Service, and Travis CI for CI/CD demonstration*
 
 ## Breakdown of Project *(Step by step of creation and progress)*
 
