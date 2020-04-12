@@ -7,8 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p><h1>This is  </h1></p>
-
+        
         <p>This react project is being compiled, pushed, and deployed automatically.</p>
 
         <div class="center">Things used in this project</div>
