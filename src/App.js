@@ -7,9 +7,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p><h1>This is a docker and kubernetes CI/CD testing/master branch.</h1></p>
+
+        <p>This react project is being compiled, pushed, and deployed automatically.</p>
+
+        <div class="center">Things used in this project</div>
+        <ul>
+          <li>Docker</li>
+          <li>Travis CI</li>
+          <li>Amazon Web Service (AWS)</li>
+          <li>Kubernetes</li>
+        </ul>
+
         <a
           className="App-link"
           href="https://reactjs.org"
