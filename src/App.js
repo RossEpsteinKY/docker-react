@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
+        <p>FEATURE BRANCH TEST</p>
         <p>This react project is being compiled, pushed, and deployed automatically.</p>
 
         <div class="center">Things used in this project</div>
