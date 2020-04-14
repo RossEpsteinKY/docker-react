@@ -12,7 +12,7 @@
 
 1.  Upon seeing changes, Travis CI accesses the Master branch of this repo - and any merged branches - then accesses "Travis.yml" for settings to compile and test the React project inside the Docker container.
 
-1.  If the tests all pass inside of Travis CI, the built React application is sent automatically to AWS and stored at the following url: http://dockerreactapp-env.eba-2kqdirk2.us-east-2.elasticbeanstalk.com/
+1.  If the tests all pass inside of Travis CI, the built React application is sent automatically to AWS.  *NOTE: To avoid incurring unnessecary costs I do not keep it live, nor allow Travis CI to push to AWS, unless it is being viewed by the request of someone viewing my resume. If you would like to see it functionally working, and have my resume, please contact me and I will happily activate this repo's functionality.*
 
 
 
